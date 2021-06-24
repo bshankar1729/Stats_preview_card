@@ -41,7 +41,7 @@ span{
 }
 @media (min-width:600px){
     main{
-        flex-direction: row;
+        flex-direction: row-reverse;
     }
     #num{
         flex-direction: row;
